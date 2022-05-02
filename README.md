@@ -5,5 +5,5 @@
 
 # 分类目录
 * [生活类]()
-* [科技类]()
+* [科技类](https://github.com/lei1205/user_manual_library/tree/main/%E7%A7%91%E6%8A%80%E7%B1%BB)
 * ...
