@@ -12,3 +12,6 @@
 ### 对讲机
 
 [宝峰UV-5R](https://github.com/lei1205/user_manual_library/blob/main/%E7%A7%91%E6%8A%80%E7%B1%BB/%E5%AE%9D%E5%B3%B0UV-5R.pdf)
+
+### 电脑
+
