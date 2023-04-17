@@ -6,6 +6,7 @@
 
 ## 电脑
 * [Thinkpad T450s](https://github.com/lei1205/user_manual_library/blob/main/lib/ThinkPad_T450s.pdf)
+* [Thinkpad X1 Carbon](https://github.com/lei1205/user_manual_library/blob/main/lib/ThinkPad_X1%20Carbon.pdf)
 
 ## 计算器
 * [fx-991CN](https://github.com/lei1205/user_manual_library/blob/main/lib/Casio%20fx-991CN_X_CN.pdf)
